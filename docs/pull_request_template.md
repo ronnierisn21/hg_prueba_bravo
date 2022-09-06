@@ -4,7 +4,7 @@
 - [ ] Charlie
 - [ ] Delta
 - [ ] Echo
-- [ ] Echo II
+- [ ] Richie 
 
 # Seleccione el tipo de actividad
 - [ ] Feature
